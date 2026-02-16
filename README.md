@@ -42,7 +42,7 @@ This assignment focused on creating, managing, and reporting Oracle Pluggable Da
   3. Dropped the PDB completely using `DROP PLUGGABLE DATABASE ... INCLUDING DATAFILES`.
   4. Confirmed that the PDB no longer exists.
 - **Screenshots:** `screenshots/pdb_deletion.png`
-
+  ![Image AET](https://github.com/Bderrick12/-oracle_pdb_ass_II_29366_Derrick/blob/cb0aa7ee6eb66a1ace5297072dab3329b48d2e2c/PL/WhatsApp%20Image%202026-02-17%20at%2000.16.14.jpeg)
 ---
 
 ### Task 3: Oracle Enterprise Manager (OEM)
