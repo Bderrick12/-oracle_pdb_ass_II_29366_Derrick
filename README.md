@@ -37,6 +37,14 @@ I accessed the OEM dashboard to verify the database status and performance metri
 ![Task 3](task3_oem_dashboard.png)
 
 ---
+Final Checklist (Apply Before Submission)
+☑️ PDB names used
+☑️User created inside the PDB
+☑️Temporary PDB created and deleted
+☑️OEM dashboard screenshot included
+☑️GitHub repository is PUBLIC
+☑️README is clear and professional
+☑️Deadline respected
 
 ## 📜 Statement
 I certify that this work is my own.
